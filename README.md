@@ -1,5 +1,6 @@
 # C Data Structures Implementation
 
+A collection of practical Data Structures exercises developed during Infinity Labs' Cyber Research program.
 Implementation of classic data structures and algorithms in C, with a focus on clean APIs, modular design, and testable code.  
 The project includes linked lists, stacks, AVL trees, hash tables, recursion utilities, and sorting algorithms.
 
