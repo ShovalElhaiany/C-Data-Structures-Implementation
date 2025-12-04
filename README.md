@@ -16,7 +16,9 @@ The project includes linked lists, stacks, AVL trees, hash tables, recursion uti
 ├── lib/              # Static libraries (.a)
 ├── src/              # Data structure and algorithm implementations
 └── test/             # Test programs for each module
-🔧 Modules
+```
+
+## 🔧 Modules
 AVL Tree
 
 Files: avl.c, avl.h, avl_test.c
@@ -59,7 +61,7 @@ Files: sorts.c, sorts.h, sorts_test.c
 
 Implementations of common sorting algorithms (e.g., bubble, insertion, quick, merge – depending on implementation).
 
-🧪 Building & Running
+## 🧪 Building & Running
 You can build the project either with a Makefile (if provided) or directly with gcc.
 
 Example: compile and run a test
